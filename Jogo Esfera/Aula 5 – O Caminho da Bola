@@ -1,0 +1,221 @@
+📘 MÓDULO 2 – CAMINHO E DESAFIOS
+📍 Aula 5 – O Caminho da Bola
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Planejar um percurso
+
+Criar várias rampas e plataformas
+
+Controlar a trajetória da bola
+
+Testar, errar e ajustar
+
+Criar um caminho funcional do início ao fim
+
+🧰 Materiais
+
+Projeto da Aula 4 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos criar um caminho completo para a bola.”
+
+🟢 2️⃣ Planejando o Caminho (5 minutos)
+
+Antes de construir, peça:
+
+“Mostre com o dedo por onde a bola vai passar.”
+
+Explique:
+
+Início
+
+Meio
+
+Final
+
+👉 Isso trabalha lógica e planejamento.
+
+🟢 3️⃣ Criando a Plataforma Inicial
+Passo a passo:
+
+Menu Home
+
+Part → Block
+
+Selecionar o bloco
+
+Scale
+
+Grande e largo
+
+Anchored → True
+
+Explique:
+
+“Aqui a bola começa.”
+
+🟢 4️⃣ Criando a Primeira Rampa
+Passo a passo:
+
+Criar novo Block
+
+Scale
+
+Comprido
+
+Baixo
+
+Rotate
+
+Inclinação leve
+
+Move
+
+Encostar na plataforma inicial
+
+Anchored → True
+
+🟢 5️⃣ Criando o Segundo Trecho do Caminho
+Plataforma intermediária:
+
+Part → Block
+
+Scale
+
+Médio
+
+Move
+
+Depois da rampa
+
+Anchored → True
+
+🟢 6️⃣ Criando a Segunda Rampa
+Passo a passo:
+
+Criar outro Block
+
+Scale
+
+Rotate
+
+Pode ser para outro lado
+
+Move
+
+Anchored → True
+
+Explique:
+
+“O caminho pode mudar de direção.”
+
+🟢 7️⃣ Posicionando a Bola
+Passo a passo:
+
+Selecionar a Ball
+
+Move
+
+Colocar no início do caminho
+
+Conferir:
+
+Anchored → False
+
+🟢 8️⃣ Testando o Caminho
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+A bola segue o caminho?
+
+Cai fora?
+
+Clicar em Stop
+
+Explique:
+
+“Se cair, não tem problema. Ajustamos.”
+
+🟢 9️⃣ Ajustes e Melhorias
+
+Sugestões guiadas:
+
+Deixar rampas mais largas
+
+Diminuir inclinação
+
+Ajustar altura das plataformas
+
+👉 Ensine:
+
+“Jogo bom precisa de teste.”
+
+🟢 🔟 Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça a bola sair do início e chegar ao final sem cair.”
+
+Regras:
+
+Usar pelo menos:
+
+2 rampas
+
+2 plataformas
+
+Tudo ancorado
+
+Bola solta
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você criou um caminho de verdade.”
+
+Antecipe:
+
+“Na próxima aula vamos deixar o jogo mais difícil.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Planeja um percurso
+
+Usa várias rampas
+
+Ajusta até funcionar
+
+Entende começo, meio e fim
