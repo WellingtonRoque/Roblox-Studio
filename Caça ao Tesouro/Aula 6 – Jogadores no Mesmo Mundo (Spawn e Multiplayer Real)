@@ -1,0 +1,215 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 6 – Jogadores no Mesmo Mundo (Spawn e Multiplayer Real)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Entender que vários jogadores entram no mesmo jogo
+
+Organizar pontos de início (Spawn)
+
+Evitar confusão entre jogadores
+
+Testar o jogo com colegas
+
+🧠 Conceito-Chave
+
+“Todo mundo joga no mesmo mundo.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto salvo da Aula 5
+
+Pelo menos 2 alunos por teste (quando possível)
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar Caça ao Tesouro Multiplayer
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos jogar juntos no mesmo mundo.”
+
+🟢 2️⃣ O Que é o Spawn? (Revisão Rápida)
+
+Mostre:
+
+O Spawn criado na Aula 2
+
+Explique:
+
+“O Spawn é onde o jogador nasce no jogo.”
+
+Pergunta:
+
+“O que acontece se todo mundo nascer no mesmo lugar?”
+
+🟢 3️⃣ Criando Vários Spawns
+Passo a passo:
+
+Menu Home
+
+Clicar em Spawn
+
+Criar 2 ou 3 Spawns
+
+Colocar todos na área inicial
+
+Explique:
+
+“Assim ninguém nasce em cima do outro.”
+
+🟢 4️⃣ Organizando os Spawns
+Passo a passo:
+
+Selecionar um Spawn
+
+Usar Move para afastar
+
+Manter todos no chão
+
+Anchored → True (se necessário)
+
+Explique:
+
+“Cada jogador precisa de espaço.”
+
+🟢 5️⃣ Criando a Área de Espera (Lobby Simples)
+Passo a passo:
+
+Home → Part → Block
+
+Criar uma plataforma grande
+
+Colocar os Spawns sobre ela
+
+Anchored → True
+
+Mudar a cor (ex: cinza)
+
+Explique:
+
+“Esse é o lugar onde todo mundo começa.”
+
+🟢 6️⃣ Testando Sozinho (Revisão)
+Passo a passo:
+
+Clicar em Play
+
+Ver onde o personagem aparece
+
+Andar pela área
+
+Stop
+
+Pergunta:
+
+“Você apareceu em um lugar certo?”
+
+🟢 7️⃣ Teste Multiplayer Simulado (Explicativo)
+
+Explique (sem executar ainda):
+
+Quando o jogo estiver publicado
+
+Outras pessoas entram
+
+Cada uma nasce em um Spawn
+
+Todos veem as mesmas coisas
+
+Frase simples:
+
+“Tudo que muda, muda para todos.”
+
+🟢 8️⃣ Ajustando o Mapa para Muitas Pessoas
+
+Explique e mostre:
+
+Caminhos largos
+
+Botões acessíveis
+
+Evitar quedas logo no começo
+
+Atividade:
+
+“Vamos melhorar o espaço para amigos.”
+
+🟢 9️⃣ Teste Cooperativo Guiado (Se Possível)
+
+Se houver estrutura:
+
+Um aluno joga
+
+Outro observa
+
+Trocam de papel
+
+Explique:
+
+“Criador observa para melhorar.”
+
+(Se não for possível, demonstre.)
+
+🟢 🔟 Salvando o Projeto
+
+File → Save
+
+Explique:
+
+“Nosso jogo já é multiplayer.”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Agora seu jogo funciona com várias pessoas.”
+
+Crie expectativa:
+
+“Na próxima aula vamos criar regras que valem para todo mundo.”
+
+✅ Resultado Esperado da Aula 6
+
+O aluno:
+
+Entende multiplayer real
+
+Organiza pontos de início
+
+Pensa em espaço compartilhado
+
+Se prepara para regras globais
+
+📌 Observação Pedagógica
+
+Essa aula desenvolve:
+
+Pensamento coletivo
+
+Planejamento
+
+Noção de sistema compartilhado
+
+Base para lógica multiplayer
