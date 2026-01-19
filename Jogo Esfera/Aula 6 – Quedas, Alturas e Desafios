@@ -1,0 +1,231 @@
+📘 MÓDULO 2 – CAMINHO E DESAFIOS
+📍 Aula 6 – Quedas, Alturas e Desafios
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Trabalhar com alturas diferentes
+
+Criar quedas controladas
+
+Ajustar dificuldade do jogo
+
+Entender risco e desafio no percurso
+
+🧰 Materiais
+
+Projeto da Aula 5 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos deixar o jogo mais emocionante.”
+
+🟢 2️⃣ Revisão Rápida (5 minutos)
+
+Perguntas:
+
+“O que é uma rampa?”
+
+“O que é uma plataforma?”
+
+👉 Reforce:
+
+Scale
+
+Rotate
+
+Anchored
+
+🟢 3️⃣ Criando uma Plataforma Alta
+Passo a passo:
+
+Menu Home
+
+Part → Block
+
+Selecionar o bloco
+
+Scale
+
+Grande e largo
+
+Move
+
+Colocar bem alto
+
+Anchored → True
+
+Explique:
+
+“Quanto mais alto, mais difícil.”
+
+🟢 4️⃣ Criando uma Queda Controlada
+Passo a passo:
+
+Criar outro Block
+
+Scale
+
+Médio
+
+Move
+
+Colocar abaixo da plataforma alta
+
+Anchored → True
+
+Explique:
+
+“A bola pode cair aqui.”
+
+🟢 5️⃣ Criando uma Rampa Depois da Queda
+Passo a passo:
+
+Criar um novo Block
+
+Scale
+
+Rotate
+
+Move
+
+Encostar na plataforma de baixo
+
+Anchored → True
+
+🟢 6️⃣ Posicionando a Bola
+Passo a passo:
+
+Selecionar a Ball
+
+Move
+
+Colocar no topo da plataforma alta
+
+Conferir:
+
+Anchored → False
+
+🟢 7️⃣ Testando a Queda
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+A bola cai?
+
+Ela continua o caminho?
+
+Clicar em Stop
+
+Pergunta:
+
+“Caiu muito rápido ou devagar?”
+
+🟢 8️⃣ Ajustando a Dificuldade
+
+Experimentos guiados:
+
+Aumentar a altura
+
+Diminuir a largura da plataforma
+
+Criar dois caminhos:
+
+Um fácil
+
+Um difícil
+
+Explique:
+
+“O criador decide a dificuldade.”
+
+🟢 9️⃣ Criando um Ponto de Desafio
+Passo a passo:
+
+Criar uma plataforma bem fina
+
+Colocar entre dois trechos
+
+Anchored → True
+
+Objetivo:
+
+Fazer a bola passar sem cair.
+
+🟢 🔟 Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça a bola passar por uma queda e continuar o caminho.”
+
+Regras:
+
+Pelo menos:
+
+1 plataforma alta
+
+1 queda
+
+1 rampa depois
+
+Tudo ancorado
+
+Bola solta
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você criou perigo no jogo.”
+
+Antecipe:
+
+“Na próxima aula vamos criar pisos difíceis.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Trabalha com alturas
+
+Cria quedas controladas
+
+Ajusta dificuldade
+
+Entende desafio no jogo
+
+📌 Observação Pedagógica
+
+Essa aula:
+
+Desenvolve noção espacial
+
+Trabalha risco e decisão
+
+Introduz design de fases
