@@ -1,0 +1,226 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 3 – Criando Caminhos, Áreas e Portas Multiplayer
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar caminhos claros no mapa
+
+Separar o mundo em áreas
+
+Usar cores para orientar jogadores
+
+Criar uma porta que bloqueia o caminho
+
+🧠 Conceito-Chave
+
+“O jogo precisa mostrar por onde ir.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto salvo da Aula 2
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Projeto da Aula 2
+Passo a passo:
+
+Abrir Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar Caça ao Tesouro Multiplayer
+
+Clicar em Edit
+
+Explique:
+
+“Vamos continuar nosso jogo.”
+
+🟢 2️⃣ Relembrando o Mapa
+
+Mostre:
+
+Spawn
+
+Área inicial
+
+Baseplate
+
+Pergunte:
+
+“Para onde o jogador vai agora?”
+
+Explique:
+
+“Precisamos criar caminhos.”
+
+🟢 3️⃣ Criando o Primeiro Caminho
+Passo a passo:
+
+Home → Part → Block
+
+Criar um bloco longo
+
+Usar Scale para virar um caminho
+
+Usar Move para ligar a área inicial a outra parte
+
+Anchored → True
+
+Explique:
+
+“Esse é o caminho que todos vão seguir.”
+
+🟢 4️⃣ Criando a Área 1 (Primeira Região)
+Passo a passo:
+
+Criar uma plataforma maior
+
+Colocar no final do caminho
+
+Anchored → True
+
+Mudar a cor (ex: azul)
+
+Explique:
+
+“Essa é a primeira área do jogo.”
+
+🟢 5️⃣ Usando Cores para Orientar Jogadores
+
+Explique:
+
+Verde = começo
+
+Azul = área 1
+
+Outras cores = outras áreas
+
+Atividade:
+
+Escolher uma cor para cada área
+
+Explique:
+
+“As cores ajudam o jogador a entender o jogo.”
+
+🟢 6️⃣ Criando a Porta (Bloqueio Visual)
+Passo a passo:
+
+Home → Part → Block
+
+Criar um bloco alto
+
+Usar Scale para virar uma porta
+
+Colocar no meio do caminho
+
+Anchored → True
+
+Mudar a cor (ex: vermelho)
+
+Explique:
+
+“A porta diz: você não pode passar ainda.”
+
+⚠️ Destaque:
+
+A porta ainda não abre
+
+🟢 7️⃣ Criando um Caminho Alternativo (Opcional)
+Passo a passo:
+
+Criar outro bloco
+
+Fazer um caminho diferente
+
+Conectar a outra área
+
+Explique:
+
+“Nem todo jogador precisa ir pelo mesmo caminho.”
+
+🟢 8️⃣ Organizando Espaço para Multiplayer
+
+Explique e demonstre:
+
+Caminhos mais largos
+
+Evitar gargalos
+
+Espaço para vários jogadores
+
+Frase simples:
+
+“O jogo precisa funcionar com muita gente.”
+
+🟢 9️⃣ Testando o Mapa
+Passo a passo:
+
+Clicar em Play
+
+Andar do Spawn até a porta
+
+Observar se o caminho está claro
+
+Stop
+
+Pergunte:
+
+“Você conseguiu achar o caminho?”
+
+“A porta está no lugar certo?”
+
+🟢 🔟 Salvando o Projeto
+
+File → Save
+
+Explique:
+
+“Salvar evita perder tudo.”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Hoje criamos caminhos e áreas para todos jogarem juntos.”
+
+Crie expectativa:
+
+“Na próxima aula vamos esconder o tesouro.”
+
+✅ Resultado Esperado da Aula 3
+
+O aluno:
+
+Organiza o mapa
+
+Cria caminhos claros
+
+Usa cores como linguagem
+
+Entende bloqueios visuais
+
+📌 Observação Pedagógica
+
+Essa aula trabalha:
+
+Planejamento espacial
+
+Comunicação visual
+
+Lógica de jogo
+
+Preparação para regras multiplayer
