@@ -1,0 +1,201 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 7 – Regras Compartilhadas do Jogo (Para Todos)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Entender regras que valem para todos
+
+Criar ações que mudam o jogo inteiro
+
+Trabalhar com estados do jogo (aberto/fechado)
+
+Reforçar cooperação
+
+🧠 Conceito-Chave
+
+“Quando algo muda, muda para todo mundo.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto salvo da Aula 6
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir Roblox Studio
+
+Login
+
+My Games
+
+Selecionar Caça ao Tesouro Multiplayer
+
+Edit
+
+Explique:
+
+“Hoje vamos criar regras do jogo.”
+
+🟢 2️⃣ Relembrando o Botão Cooperativo
+
+Mostre:
+
+Botão
+
+Porta
+
+Pergunte:
+
+“Quando alguém pisa no botão, o que acontece?”
+
+Explique:
+
+“A regra vale para todos.”
+
+🟢 3️⃣ Entendendo Estado do Jogo (Sem Código)
+
+Explique com exemplo:
+
+Porta fechada = jogo bloqueado
+
+Porta aberta = jogo liberado
+
+Frase simples:
+
+“O jogo tem fases.”
+
+🟢 4️⃣ Criando uma Segunda Porta Global
+Passo a passo:
+
+Home → Part → Block
+
+Criar uma porta nova
+
+Colocar em outro caminho
+
+Anchored → True
+
+Cor diferente
+
+Explique:
+
+“Essa porta também faz parte da regra.”
+
+🟢 5️⃣ Ligando as Portas à Mesma Regra
+
+Explique (sem mostrar código):
+
+Um botão
+
+Duas portas
+
+Uma regra
+
+Frase:
+
+“Uma ação muda várias coisas.”
+
+🟢 6️⃣ Testando a Regra Global
+Passo a passo:
+
+Play
+
+Encostar no botão
+
+Ver as portas abrirem
+
+Stop
+
+Pergunta:
+
+“O que mudou para todo mundo?”
+
+🟢 7️⃣ Pensando Como Criador
+
+Pergunte:
+
+“O que acontece se ninguém apertar?”
+
+“E se alguém apertar cedo?”
+
+Explique:
+
+“Criador pensa em regras.”
+
+🟢 8️⃣ Ajustando a Dificuldade
+
+Sugestões:
+
+Botão mais longe
+
+Porta mais perto
+
+Duas portas em áreas diferentes
+
+Explique:
+
+“Regras mudam o desafio.”
+
+🟢 9️⃣ Organização do Jogo
+
+Explique:
+
+Não confundir jogadores
+
+Mostrar claramente o que mudou
+
+Usar cores
+
+Atividade:
+
+“Vamos deixar claro o que abriu.”
+
+🟢 🔟 Salvando o Projeto
+
+File → Save
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Hoje você criou regras para todo mundo.”
+
+Crie expectativa:
+
+“Na próxima aula vamos criar desafios em equipe.”
+
+✅ Resultado Esperado da Aula 7
+
+O aluno:
+
+Entende regras globais
+
+Trabalha causa e efeito
+
+Pensa como criador
+
+Desenvolve lógica multiplayer
+
+📌 Observação Pedagógica
+
+Essa aula desenvolve:
+
+Pensamento sistêmico
+
+Lógica
+
+Cooperação
+
+Base para programação futura
