@@ -1,0 +1,166 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 10 – Contador de Tesouros (Sistema de Pontos Simples)
+🎯 Tema da Aula
+
+Fazendo o jogo “contar” quantos tesouros o jogador pegou
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Entender que o jogo pode guardar informações
+
+Criar um contador de tesouros
+
+Associar coleta de objetos a pontos
+
+Visualizar progresso dentro do jogo
+
+🧠 Conceitos Trabalhados
+
+Contagem
+
+Variável (como “caixa de números”)
+
+Progresso no jogo
+
+Lógica de recompensa
+
+Relação ação → resultado
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🎯 Sistema simples de pontos por tesouro coletado
+
+(Ainda sem interface gráfica — foco na lógica)
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Abrir o Projeto Atual
+
+Abrir o Roblox Studio
+
+Clicar em My Games
+
+Selecionar o jogo
+
+Clicar em Edit
+
+💬 Explique:
+
+“Agora o jogo vai lembrar quantos tesouros você pegou!”
+
+🔹 PASSO 2 – Criar um Lugar para Guardar os Pontos
+Criar um objeto invisível (contador):
+
+No Explorer
+
+Clicar com botão direito em Workspace
+
+Insert Object
+
+Selecionar Folder
+
+Nomear como:
+📁 Sistema
+
+🔹 PASSO 3 – Criar o Contador de Tesouros
+
+Clicar com botão direito na pasta Sistema
+
+Insert Object
+
+Selecionar IntValue
+
+Renomear para:
+🔢 TesourosColetados
+
+📌 Explique:
+
+“Esse número começa em zero e vai aumentando”
+
+🔹 PASSO 4 – Ajustar o Script do Tesouro
+
+Agora vamos ligar o tesouro ao contador.
+
+Abrir o Script de um tesouro
+
+Substituir o código anterior por este:
+
+local contador = game.Workspace.Sistema.TesourosColetados
+
+script.Parent.Touched:Connect(function()
+    contador.Value = contador.Value + 1
+    script.Parent.Transparency = 1
+    script.Parent.CanCollide = false
+end)
+
+
+📌 Orientações:
+
+Copiar
+
+Colar
+
+Não alterar
+
+💬 Explique em linguagem simples:
+
+“Toda vez que pega um tesouro, o número aumenta”
+
+🔹 PASSO 5 – Testar o Contador
+
+Clicar em Play
+
+Abrir o Explorer durante o jogo
+
+Observar o número TesourosColetados
+
+Encostar nos tesouros
+
+✅ Resultado esperado:
+
+O número aumenta a cada coleta
+
+🎉 Momento de comemoração!
+
+🔹 PASSO 6 – Aplicar a Todos os Tesouros
+
+Copiar o Script atualizado
+
+Colar em todos os tesouros
+
+Testar novamente
+
+🔹 PASSO 7 – Exploração Guiada (Sem Interface)
+
+Perguntas para os alunos:
+
+O que acontece quando pega 1 tesouro?
+
+E quando pega 5?
+
+O jogo “lembra” o que você fez?
+
+📌 Incentivar respostas orais e desenho no caderno
+
+🎮 Atividade Prática do Aluno
+
+✅ Fazer:
+
+Coletar todos os tesouros do mapa
+
+🏆 Desafio:
+
+Adicionar mais 3 tesouros ao jogo
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ Conceito de variável
+✔️ Contagem automática
+✔️ Progresso no jogo
+✔️ Relação matemática simples
+✔️ Lógica computacional inicial
