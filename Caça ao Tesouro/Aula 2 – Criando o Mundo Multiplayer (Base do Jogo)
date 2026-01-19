@@ -1,0 +1,230 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 2 – Criando o Mundo Multiplayer (Base do Jogo)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes em jogos multiplayer no Roblox Studio
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar o mundo base do jogo multiplayer
+
+Usar um template simples
+
+Organizar espaços grandes
+
+Definir onde os jogadores aparecem
+
+🧠 Conceito-Chave
+
+“O mundo é o lugar onde todos jogam juntos.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Conta Roblox
+
+Caderno (opcional, para planejamento simples)
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Roblox Studio
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Na tela inicial, clicar em New
+
+Explique:
+
+“Vamos criar nosso próprio mundo.”
+
+🟢 2️⃣ Criando o Mundo Base (Template)
+Passo a passo:
+
+Na aba Templates
+
+No campo de busca, digitar:
+
+Baseplate
+
+
+Selecionar Baseplate
+
+Clicar em Create
+
+Explique:
+
+“Esse chão é onde todos vão jogar.”
+
+⚠️ Destaque:
+
+Todo jogo começa com um template
+
+🟢 3️⃣ Conhecendo o Mundo 3D
+
+Mostre calmamente:
+
+O chão grande
+
+O céu
+
+A câmera
+
+Explique:
+
+“Esse espaço é grande porque o jogo é para vários jogadores.”
+
+🟢 4️⃣ Movendo a Câmera (Muito Importante)
+Passo a passo:
+
+Botão direito do mouse → girar
+
+Scroll → aproximar / afastar
+
+Teclas W A S D → mover
+
+Explique:
+
+“Mover a câmera é como andar no mundo.”
+
+🟢 5️⃣ Criando o Lugar de Início dos Jogadores
+Passo a passo:
+
+Menu Home
+
+Clicar em Spawn
+
+Um objeto aparece no chão
+
+Explique:
+
+“Aqui os jogadores começam.”
+
+⚠️ Destaque:
+
+Se tiver vários jogadores, todos aparecem nesse lugar
+
+🟢 6️⃣ Ajustando o Spawn
+Passo a passo:
+
+Selecionar o Spawn
+
+Usar Move para centralizar
+
+Usar Scale para ajustar tamanho
+
+Anchored → True
+
+Explique:
+
+“O Spawn não pode sair do lugar.”
+
+🟢 7️⃣ Criando uma Área Inicial (Zona Segura)
+Passo a passo:
+
+Home → Part → Block
+
+Criar uma plataforma grande
+
+Usar Scale
+
+Colocar embaixo do Spawn
+
+Anchored → True
+
+Mudar a cor (ex: verde)
+
+Explique:
+
+“Aqui é o começo do jogo.”
+
+🟢 8️⃣ Organizando Espaço para Vários Jogadores
+
+Explique e demonstre:
+
+Espaço grande evita empurrões
+
+Caminhos largos
+
+Evitar buracos no começo
+
+Atividade guiada:
+
+“Vamos deixar espaço para todo mundo.”
+
+🟢 9️⃣ Salvando o Projeto
+Passo a passo:
+
+Menu File
+
+Save to Roblox
+
+Nome do jogo:
+
+Caça ao Tesouro Multiplayer
+
+
+Clicar em Save
+
+Explique:
+
+“Salvar protege nosso trabalho.”
+
+🟢 🔟 Testando com Play
+Passo a passo:
+
+Clicar em Play
+
+Ver o personagem aparecer no Spawn
+
+Andar pelo mapa
+
+Clicar em Stop
+
+Pergunte:
+
+“Funcionou?”
+
+“Você começou no lugar certo?”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Hoje criamos o mundo onde todo mundo vai jogar junto.”
+
+Crie expectativa:
+
+“Na próxima aula vamos criar caminhos e áreas.”
+
+✅ Resultado Esperado da Aula 2
+
+O aluno:
+
+Cria um mundo multiplayer
+
+Usa template corretamente
+
+Define ponto inicial
+
+Entende espaço compartilhado
+
+📌 Observação Pedagógica
+
+Essa aula:
+
+Desenvolve visão espacial
+
+Organização
+
+Pensamento coletivo
+
+Base para regras multiplayer
