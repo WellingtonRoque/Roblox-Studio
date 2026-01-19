@@ -1,0 +1,186 @@
+📘 MÓDULO 3 – INTERAÇÃO SIMPLES
+📍 Aula 8 – Objetos que Reagem (Porta e Plataforma)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar objetos que mudam quando a bola encosta
+
+Entender ação e reação
+
+Usar modelos prontos de forma guiada
+
+Criar interação simples no jogo
+
+🧰 Materiais
+
+Projeto da Aula 7 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje o jogo vai reagir.”
+
+🟢 2️⃣ Revisão Rápida (5 minutos)
+
+Perguntas:
+
+“O que é um desafio?”
+
+“O que é piso difícil?”
+
+Explique:
+
+“Agora o jogo vai responder.”
+
+🟢 3️⃣ Inserindo um Modelo Pronto (Porta)
+Passo a passo:
+
+Menu View
+
+Marcar Toolbox
+
+Na barra de busca da Toolbox, digitar:
+
+door
+
+
+Escolher uma porta simples
+
+Inserir no mapa
+
+⚠️ Dica ao professor:
+
+Evite modelos muito complexos.
+
+🟢 4️⃣ Posicionando a Porta
+Passo a passo:
+
+Selecionar a porta
+
+Move
+
+Colocar bloqueando o caminho
+
+Testar com Play
+
+Explique:
+
+“A porta bloqueia o caminho.”
+
+🟢 5️⃣ Inserindo um Botão Pronto
+Passo a passo:
+
+Toolbox
+
+Buscar:
+
+button
+
+
+Escolher um botão simples
+
+Inserir próximo à porta
+
+Explique:
+
+“O botão vai abrir a porta.”
+
+🟢 6️⃣ Conectando Botão e Porta (Guiado)
+
+👉 Use modelos que já funcionem ao encostar.
+
+Teste:
+
+Play
+
+Encostar a bola no botão
+
+Ver a porta abrir
+
+Explique:
+
+“Quando encosta, acontece algo.”
+
+🟢 7️⃣ Ajustando a Interação
+Passo a passo:
+
+Ajustar posição do botão
+
+Ajustar posição da porta
+
+Anchored → True nos objetos fixos
+
+Pergunta:
+
+“Está fácil ou difícil?”
+
+🟢 8️⃣ Criando um Segundo Desafio
+Passo a passo:
+
+Duplicar porta e botão
+
+Criar outro trecho do jogo
+
+Ajustar posições
+
+Explique:
+
+“Um jogo pode ter várias interações.”
+
+🟢 9️⃣ Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça a bola apertar o botão e abrir o caminho.”
+
+Regras:
+
+Botão antes da porta
+
+Porta bloqueando o caminho
+
+Testar até funcionar
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você fez o jogo responder.”
+
+Antecipe:
+
+“Na próxima aula vamos criar um botão mágico.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Usa modelos prontos com interação
+
+Entende ação → reação
+
+Cria portas e botões funcionais
