@@ -1,0 +1,229 @@
+📘 MÓDULO 1 – CONHECENDO O ROBLOX STUDIO
+📍 Aula 4 – A Bola Saltadora (Rampa + Salto)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar uma rampa de salto
+
+Posicionar corretamente a bola
+
+Usar anchored corretamente
+
+Observar força, velocidade e salto
+
+Criar um mini desafio funcional
+
+🧰 Materiais
+
+Projeto da Aula 3 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos fazer a bola voar.”
+
+🟢 2️⃣ Revisão Rápida (5 minutos)
+
+Perguntas:
+
+“O que é Anchored?”
+
+“O que acontece se não ancorar?”
+
+👉 Mostre rapidamente:
+
+Selecionar objeto
+
+Properties → Anchored
+
+🟢 3️⃣ Criando a Rampa de Salto
+Passo a passo:
+
+Menu Home
+
+Clicar em Part
+
+Escolher Block
+
+Ajustando o tamanho da rampa:
+
+Selecionar o bloco
+
+Clicar em Scale
+
+Esticar:
+
+Comprimento grande
+
+Largura média
+
+Altura baixa
+
+Girando a rampa:
+
+Selecionar o bloco
+
+Clicar em Rotate
+
+Inclinar levemente
+
+Ancorando a rampa:
+
+Selecionar a rampa
+
+Properties
+
+Anchored → True
+
+Explique:
+
+“Essa rampa não pode cair.”
+
+🟢 4️⃣ Criando a Bola
+Passo a passo:
+
+Menu Home
+
+Clicar em Part
+
+Escolher Ball
+
+Ajustando a bola:
+
+Selecionar a bola
+
+Scale
+
+Deixar do tamanho de uma bola média
+
+🟢 5️⃣ Posicionando a Bola
+Passo a passo:
+
+Selecionar a bola
+
+Move
+
+Colocar a bola:
+
+No topo da rampa
+
+Um pouco acima da superfície
+
+⚠️ Importante:
+
+A bola não pode estar ancorada
+
+Verificar:
+
+Properties → Anchored → False
+
+🟢 6️⃣ Testando o Salto
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+A bola rola
+
+A bola ganha velocidade
+
+A bola salta
+
+Clicar em Stop
+
+Pergunta:
+
+“Ela pulou pouco ou muito?”
+
+🟢 7️⃣ Ajustando o Salto (Experimentos)
+Experimento 1 – Rampa mais alta:
+
+Aumentar a altura
+
+Testar novamente
+
+Experimento 2 – Rampa mais inclinada:
+
+Girar um pouco mais
+
+Testar novamente
+
+Explique:
+
+“Mudamos o salto mudando a rampa.”
+
+🟢 8️⃣ Criando um Alvo de Salto
+Passo a passo:
+
+Criar um novo Block
+
+Escalar para virar uma plataforma
+
+Posicionar depois do salto
+
+Anchored → True
+
+Objetivo:
+
+Fazer a bola cair em cima do alvo.
+
+🟢 9️⃣ Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça a bola pular e cair na plataforma.”
+
+Regras:
+
+Rampa ancorada
+
+Bola solta
+
+Ajustar até funcionar
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você criou um salto no jogo.”
+
+Antecipe:
+
+“Na próxima aula vamos criar um caminho completo para a bola.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Cria um sistema funcional de salto
+
+Entende relação entre rampa e movimento
+
+Usa várias ferramentas juntas
+
+Testa e ajusta seu jogo
