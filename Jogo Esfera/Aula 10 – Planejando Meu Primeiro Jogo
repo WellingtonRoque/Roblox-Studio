@@ -1,0 +1,263 @@
+📘 MÓDULO 4 – CRIAÇÃO AUTORAL
+📍 Aula 10 – Planejando Meu Primeiro Jogo
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes no Roblox Studio
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Planejar um jogo simples antes de construir
+
+Entender começo, meio e fim
+
+Organizar ideias usando objetos
+
+Criar um mini jogo completo no Roblox Studio
+
+🧠 Conceito-Chave da Aula
+
+“Todo jogo começa com uma ideia.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto novo (ou duplicado)
+
+Quadro, cartaz ou conversa guiada
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO
+🟢 1️⃣ Conversa Inicial (5–10 minutos)
+
+Perguntas para a turma:
+
+“Qual foi o jogo que você mais gostou de criar?”
+
+“O que um jogo precisa para ser divertido?”
+
+Explique em linguagem simples:
+
+“Todo jogo tem um começo, desafios e um final.”
+
+🟢 2️⃣ O Que Nosso Jogo Vai Ter?
+
+Apresente os 3 elementos básicos:
+
+Início
+
+Onde o jogador começa
+
+Desafio
+
+Obstáculos, pulos, botões
+
+Final
+
+Onde o jogador vence
+
+Explique:
+
+“Hoje vamos montar um jogo pequeno com essas três partes.”
+
+🟢 3️⃣ Criando um Novo Mundo (Do Zero)
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Clicar em New
+
+Em Templates, procurar:
+
+Digitar Baseplate
+
+Selecionar Baseplate
+
+Clicar em Create
+
+Explique:
+
+“Esse é o chão do nosso jogo.”
+
+🟢 4️⃣ Criando o Início do Jogo
+Passo a passo:
+
+Home → Part → Block
+
+Scale
+
+Fazer uma plataforma média
+
+Move
+
+Colocar no começo do mapa
+
+Anchored → True
+
+Explique:
+
+“Aqui o jogador começa.”
+
+💡 Opcional:
+
+Mudar a cor para verde
+
+🟢 5️⃣ Criando o Desafio Principal
+Passo a passo:
+
+Criar 3 ou 4 blocos
+
+Usar:
+
+Scale
+
+Rotate
+
+Move
+
+Criar:
+
+Plataformas
+
+Rampas
+
+Espaços para pular
+
+Anchored → True em todos
+
+Explique:
+
+“O desafio faz o jogador pensar.”
+
+🟢 6️⃣ Escolhendo UMA Ideia Especial
+
+Peça para o aluno escolher apenas uma opção:
+
+Um botão mágico
+
+Uma porta
+
+Uma rampa difícil
+
+Um caminho secreto
+
+Explique:
+
+“Jogo simples também pode ser divertido.”
+
+🟢 7️⃣ Criando o Final do Jogo
+Passo a passo:
+
+Home → Part → Block
+
+Scale
+
+Fazer uma plataforma maior
+
+Move
+
+Colocar depois do desafio
+
+Anchored → True
+
+Mudar a cor (ex: dourado)
+
+Explique:
+
+“Aqui o jogador vence.”
+
+🟢 8️⃣ Testando o Jogo Completo
+Passo a passo:
+
+Clicar em Play
+
+Começar do início
+
+Passar pelo desafio
+
+Chegar ao final
+
+Stop
+
+Pergunte:
+
+“Deu certo?”
+
+“Está fácil ou difícil?”
+
+🟢 9️⃣ Ajustes Finais
+
+Oriente o aluno a:
+
+Ajustar distância dos pulos
+
+Corrigir quedas
+
+Mudar cores
+
+Reorganizar objetos
+
+Explique:
+
+“Criador testa e melhora.”
+
+🟢 🔟 Apresentação do Jogo
+
+Cada aluno explica:
+
+Onde começa
+
+Qual é o desafio
+
+Onde termina
+
+Explique:
+
+“Criar jogo também é contar uma história.”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Hoje você criou seu próprio jogo.”
+
+Valorize:
+
+Criatividade
+
+Organização
+
+Tentativas
+
+✅ Resultado Esperado
+
+Ao final da Aula 10, o aluno:
+
+Planeja antes de construir
+
+Cria um jogo completo simples
+
+Entende estrutura de jogo
+
+Se sente autor do projeto
+
+📌 Observação Pedagógica
+
+Essa aula:
+
+Trabalha pensamento computacional
+
+Desenvolve autonomia
+
+Prepara para:
+
+Projeto final
+
+Jogos mais complexos
+
+Introdução futura ao Lua
