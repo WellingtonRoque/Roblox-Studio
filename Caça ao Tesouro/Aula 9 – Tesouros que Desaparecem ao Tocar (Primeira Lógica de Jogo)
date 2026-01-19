@@ -1,0 +1,163 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 9 – Tesouros que Desaparecem ao Tocar (Primeira Lógica de Jogo)
+🎯 Tema da Aula
+
+Fazendo objetos reagirem ao jogador
+(O tesouro “some” quando o jogador encosta)
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Entender que o jogo pode reagir às ações do jogador
+
+Criar tesouros que desaparecem ao toque
+
+Compreender o conceito de evento (sem código)
+
+Testar e validar interações no jogo
+
+🧠 Conceitos Trabalhados
+
+Interação jogador × objeto
+
+Evento de toque
+
+Visibilidade de objetos
+
+Feedback visual
+
+Lógica básica de jogos
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🎁 Tesouros que somem quando o jogador encosta
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Abrir o Projeto da Aula 5
+
+Abrir o Roblox Studio
+
+Clicar em My Games
+
+Selecionar o jogo atual
+
+Clicar em Edit
+
+💬 Explique:
+
+“Hoje vamos fazer o jogo reagir ao jogador!”
+
+🔹 PASSO 2 – Escolher um Tesouro para Teste
+
+No Explorer
+
+Abrir a pasta 📁 Tesouros
+
+Clicar em apenas um objeto
+
+📌 Dica para o professor:
+
+Trabalhar primeiro com 1 tesouro
+
+Depois aplicar aos outros
+
+🔹 PASSO 3 – Inserir um Script (Primeiro Contato)
+
+💡 Aqui é programação mínima, guiada e controlada.
+
+Selecionar o tesouro
+
+Clicar com botão direito
+
+Insert Object
+
+Selecionar Script
+
+📌 Explique:
+
+“O Script é como um cérebro do objeto”
+
+🔹 PASSO 4 – Copiar e Colar o Código (Sem Digitar)
+
+⚠️ O aluno não precisa entender o código ainda, apenas usar.
+
+script.Parent.Touched:Connect(function()
+    script.Parent.Transparency = 1
+    script.Parent.CanCollide = false
+end)
+
+
+📌 Orientações:
+
+Copiar
+
+Colar
+
+Não alterar nada
+
+💬 Explique de forma simples:
+
+“Quando o jogador encosta, o objeto fica invisível”
+
+🔹 PASSO 5 – Testar o Tesouro
+
+Clicar em Play
+
+Andar até o tesouro
+
+Encostar nele
+
+✅ Resultado esperado:
+
+O tesouro some
+
+🎉 Comemorar com a turma!
+
+🔹 PASSO 6 – Aplicar aos Outros Tesouros
+
+Clicar com botão direito no Script
+
+Copy
+
+Selecionar outro tesouro
+
+Paste Into
+
+📌 Repetir até todos funcionarem
+
+🔹 PASSO 7 – Ajustes Visuais (Opcional)
+
+Antes de testar:
+
+Cores diferentes
+
+Materiais Neon
+
+Tamanhos variados
+
+💬 Explique:
+
+“O jogador precisa perceber quando algo é especial”
+
+🎮 Atividade Prática do Aluno
+
+✅ Fazer:
+
+Todos os tesouros sumirem ao toque
+
+🏆 Desafio:
+
+Criar um tesouro “secreto” em lugar difícil
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ O jogo reage ao jogador
+✔️ Conceito de evento (tocar)
+✔️ Introdução segura à programação
+✔️ Relação causa → efeito
+✔️ Confiança para continuar aprendendo
