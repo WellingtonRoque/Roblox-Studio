@@ -1,0 +1,219 @@
+📘 MÓDULO 2 – CAMINHO E DESAFIOS
+📍 Aula 7 – Piso Difícil e Precisão
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar pisos finos e difíceis
+
+Ajustar largura e distância
+
+Controlar a dificuldade do jogo
+
+Desenvolver precisão no percurso
+
+🧰 Materiais
+
+Projeto da Aula 6 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje o jogo vai ficar difícil.”
+
+🟢 2️⃣ Revisão Rápida (5 minutos)
+
+Perguntas:
+
+“O que é uma plataforma?”
+
+“O que é uma rampa?”
+
+👉 Reforce:
+
+Scale
+
+Move
+
+Anchored
+
+🟢 3️⃣ Criando um Piso Fino
+Passo a passo:
+
+Menu Home
+
+Part → Block
+
+Selecionar o bloco
+
+Scale
+
+Muito comprido
+
+Bem fino
+
+Move
+
+Colocar no meio do caminho
+
+Anchored → True
+
+Explique:
+
+“Esse piso é difícil de passar.”
+
+🟢 4️⃣ Criando Vários Pisos Difíceis
+Passo a passo:
+
+Duplicar o bloco:
+
+Selecionar
+
+Ctrl + D
+
+Mover os pisos:
+
+Um após o outro
+
+Ajustar distância entre eles
+
+Explique:
+
+“Agora a bola precisa de precisão.”
+
+🟢 5️⃣ Ajustando a Largura do Piso
+Passo a passo:
+
+Selecionar um piso
+
+Scale
+
+Testar:
+
+Muito fino
+
+Médio
+
+Mais largo
+
+Pergunta:
+
+“Qual ficou mais difícil?”
+
+🟢 6️⃣ Posicionando a Bola
+Passo a passo:
+
+Selecionar a Ball
+
+Move
+
+Colocar antes do piso difícil
+
+Conferir:
+
+Anchored → False
+
+🟢 7️⃣ Testando o Piso Difícil
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+A bola cai?
+
+Passa?
+
+Stop
+
+Explique:
+
+“Se cair, o jogo está difícil.”
+
+🟢 8️⃣ Ajustando a Dificuldade
+
+Experimentos guiados:
+
+Aumentar a distância entre pisos
+
+Diminuir largura
+
+Criar um caminho alternativo fácil
+
+Explique:
+
+“Um jogo bom tem escolha.”
+
+🟢 9️⃣ Criando um Trecho de Desafio
+Passo a passo:
+
+Criar um conjunto de:
+
+3 pisos finos
+
+Colocar após uma rampa
+
+Anchored → True
+
+Objetivo:
+
+A bola deve passar por todos.
+
+🟢 🔟 Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça um caminho difícil sem deixar impossível.”
+
+Regras:
+
+Pelo menos 3 pisos finos
+
+Ajustar largura e distância
+
+Testar até funcionar
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você criou um desafio de verdade.”
+
+Antecipe:
+
+“Na próxima aula vamos fazer objetos reagirem.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Cria pisos difíceis
+
+Ajusta dificuldade
+
+Desenvolve precisão
+
+Entende equilíbrio do jogo
