@@ -1,0 +1,137 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 AULA 14 – Tela de Vitória e Reinício do Jogo
+🎯 Tema da Aula
+
+Mostrar quem ganhou sem expulsar os jogadores
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Mostrar uma mensagem de vitória na tela
+
+Entender que o jogo pode reiniciar
+
+Melhorar a experiência do jogador
+
+Criar um final claro para o jogo
+
+🧠 Conceitos Trabalhados
+
+Feedback visual
+
+Final de jogo
+
+Mensagem global
+
+Experiência do usuário
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🏆 Tela de vitória para todos os jogadores
+
+🪜 PASSO A PASSO – AULA 11
+🔹 PASSO 1 – Criar Interface de Vitória
+
+No Explorer
+
+Abrir StarterGui
+
+Botão direito → Insert Object
+
+Selecionar ScreenGui
+
+Renomear para:
+🏆 TelaVitoria
+
+🔹 PASSO 2 – Criar Texto da Vitória
+
+Dentro de TelaVitoria
+
+Insert Object → TextLabel
+
+Renomear para:
+🏷️ TextoVitoria
+
+🔹 PASSO 3 – Ajustar Aparência
+
+Em Properties do TextoVitoria:
+
+Text → VOCÊ VENCEU!
+
+TextSize → 48
+
+TextColor → Amarelo
+
+BackgroundColor → Preto
+
+BackgroundTransparency → 0.2
+
+Centralizar na tela
+
+Visible → ❌ (desmarcado)
+
+🔹 PASSO 4 – Script da Tela de Vitória
+
+Selecionar TextoVitoria
+
+Insert Object → LocalScript
+
+Cole o código:
+
+local player = game.Players.LocalPlayer
+local pontos = player:WaitForChild("Tesouros")
+local texto = script.Parent
+local LIMITE = 5
+
+pontos:GetPropertyChangedSignal("Value"):Connect(function()
+    if pontos.Value >= LIMITE then
+        texto.Visible = true
+    end
+end)
+
+
+📌 Explique:
+
+“Quando o jogador ganha, a mensagem aparece”
+
+🔹 PASSO 5 – Testar
+
+Rodar com 2 jogadores
+
+Um ganha
+
+Apenas o vencedor vê a mensagem
+
+🎉 Resultado profissional!
+
+🔹 PASSO 6 – Reinício Simples do Jogo
+
+No ServerScriptService, criar um Script chamado:
+
+🔄 ReiniciarJogo
+
+wait(5)
+for _, player in pairs(game.Players:GetPlayers()) do
+    player:LoadCharacter()
+    local pontos = player:FindFirstChild("Tesouros")
+    if pontos then
+        pontos.Value = 0
+    end
+end
+
+
+📌 Explique:
+
+“Depois da vitória, o jogo recomeça”
+
+🧠 O que o aluno aprende na Aula 11
+
+✔️ Final de jogo
+✔️ Feedback visual
+✔️ Organização de sistemas
+✔️ Reinício de partida
