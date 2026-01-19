@@ -1,0 +1,205 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 8 – Objetos Interativos e Coleta de Itens (Base do Jogo)
+🎯 Tema da Aula
+
+Criando objetos que o jogador pode encontrar, tocar e coletar
+(Base para caça ao tesouro, pontos, fases e recompensas)
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Criar objetos colecionáveis
+
+Posicionar itens pelo mapa
+
+Usar cores, formas e efeitos visuais
+
+Entender que interação acontece quando o jogador encosta em algo
+
+Visualizar como isso será usado em jogos multiplayer
+
+🧠 Conceitos Trabalhados (sem programação)
+
+Interação por toque
+
+Objetos especiais no jogo
+
+Repetição de objetos
+
+Organização do mapa
+
+Experiência do jogador
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🎁 Itens de Tesouro Espalhados pelo Mapa
+
+O jogador anda pelo mapa e encontra:
+
+Cubos dourados
+
+Esferas brilhantes
+
+Itens coloridos (tesouros)
+
+(Na próxima aula, eles “valerão pontos”)
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Abrir o Projeto da Aula Anterior
+
+Abrir o Roblox Studio
+
+Clicar em My Games
+
+Selecionar o jogo criado na Aula 4
+
+Clicar em Edit
+
+💬 Explique:
+
+“Hoje vamos deixar nosso mundo mais vivo, com coisas para pegar!”
+
+🔹 PASSO 2 – Criar o Primeiro Item Coletável
+Criando um cubo de tesouro:
+
+No menu superior, clicar em Model
+
+Clicar em Part
+
+Um cubo aparece no mapa
+
+Ajustar o objeto:
+
+Usar Move para posicionar
+
+Usar Scale para deixar menor
+
+Usar Rotate se quiser
+
+📌 Sugestão:
+
+Deixar o cubo flutuando um pouco acima do chão
+
+🔹 PASSO 3 – Deixar o Item Bonito e Chamativo
+
+Selecionar o cubo
+
+Abrir a aba Properties
+
+Alterar:
+
+Color → Amarelo / Dourado
+
+Material → Neon
+
+Anchored → ✔️ (marcado)
+
+💬 Explique:
+
+“Itens especiais precisam chamar atenção!”
+
+🔹 PASSO 4 – Criar Variações de Tesouro
+
+Agora vamos criar outros tipos:
+
+Esfera:
+
+Selecionar o cubo
+
+Em Properties, mudar:
+
+Shape → Ball
+
+Cilindro:
+
+Criar novo Part
+
+Em Shape, escolher Cylinder
+
+🎨 Mudar cores diferentes:
+
+Azul
+
+Verde
+
+Roxo
+
+Vermelho
+
+🔹 PASSO 5 – Duplicar Itens pelo Mapa
+
+Selecionar um item
+
+Pressionar Ctrl + D
+
+Arrastar para outro local do mapa
+
+📌 Faça com os alunos:
+
+Espalhar pelo menos 5 tesouros
+
+Colocar em lugares fáceis e difíceis
+
+💬 Explique:
+
+“Isso vira um desafio no jogo!”
+
+🔹 PASSO 6 – Organização (Muito Importante)
+
+Abrir o painel Explorer
+
+Clicar com botão direito em Workspace
+
+Criar uma Folder
+
+Nomear como:
+📁 Tesouros
+
+Arrastar todos os itens para dentro da pasta
+
+💬 Explique:
+
+“Organizar é coisa de criador profissional!”
+
+🔹 PASSO 7 – Testar o Jogo
+
+Clicar em Play
+
+Andar com o personagem
+
+Chegar perto dos tesouros
+
+Observar:
+
+Eles chamam atenção?
+
+Estão bem posicionados?
+
+📌 Ainda não somem — isso será feito depois.
+
+🎮 Atividade Prática do Aluno
+
+✅ Criar:
+
+5 itens de tesouro
+
+3 cores diferentes
+
+2 formatos diferentes
+
+🏆 Desafio:
+
+Esconder 1 tesouro em lugar difícil
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ Criar objetos especiais
+✔️ Usar formas e cores
+✔️ Trabalhar com duplicação
+✔️ Organizar o projeto
+✔️ Pensar como um designer de jogos
