@@ -1,0 +1,168 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 12 – Multiplayer: Cada Jogador com Seu Próprio Placar
+🎯 Tema da Aula
+
+Fazendo o jogo entender que existem vários jogadores ao mesmo tempo
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Entender que o jogo pode ter mais de um jogador
+
+Criar um contador de pontos individual
+
+Ver placares diferentes para cada jogador
+
+Jogar junto com colegas no mesmo mundo
+
+🧠 Conceitos Trabalhados
+
+Multiplayer
+
+Jogador (Player)
+
+Dados individuais
+
+Justiça no jogo
+
+Interação social
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+👥 Placar individual para cada jogador no modo multiplayer
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Entender a Ideia (Momento Conceitual)
+
+💬 Explique para a turma:
+
+“No jogo online, cada pessoa tem seu próprio placar.”
+
+📌 Dê um exemplo:
+
+Jogador A pega 3 tesouros
+
+Jogador B pega 1 tesouro
+
+Cada um vê seu número.
+
+🔹 PASSO 2 – Criar Pontuação para Cada Jogador
+
+Agora vamos criar o contador dentro do jogador.
+
+Criar um Script Central:
+
+No Explorer
+
+Clicar em ServerScriptService
+
+Botão direito → Insert Object
+
+Selecionar Script
+
+Renomear para:
+🧠 SistemaPontuacao
+
+🔹 PASSO 3 – Código do Sistema de Pontuação
+
+Apagar tudo e colar:
+
+game.Players.PlayerAdded:Connect(function(player)
+    local pontos = Instance.new("IntValue")
+    pontos.Name = "Tesouros"
+    pontos.Value = 0
+    pontos.Parent = player
+end)
+
+
+💬 Explique de forma simples:
+
+“Quando alguém entra no jogo, ganha um contador só para ele”
+
+🔹 PASSO 4 – Atualizar Script dos Tesouros
+
+Agora o tesouro vai somar pontos no jogador que pegou.
+
+Abrir o Script do Tesouro e substituir por:
+script.Parent.Touched:Connect(function(hit)
+    local character = hit.Parent
+    local player = game.Players:GetPlayerFromCharacter(character)
+
+    if player then
+        local pontos = player:FindFirstChild("Tesouros")
+        if pontos then
+            pontos.Value = pontos.Value + 1
+            script.Parent.Transparency = 1
+            script.Parent.CanCollide = false
+        end
+    end
+end)
+
+
+📌 Orientação:
+
+Copiar
+
+Colar
+
+Não alterar
+
+🔹 PASSO 5 – Ajustar o Placar da Tela
+
+Agora o placar deve mostrar os pontos do jogador local.
+
+Abrir o LocalScript do TextoPlacar e usar:
+local player = game.Players.LocalPlayer
+local pontos = player:WaitForChild("Tesouros")
+local texto = script.Parent
+
+texto.Text = "Tesouros: " .. pontos.Value
+
+pontos:GetPropertyChangedSignal("Value"):Connect(function()
+    texto.Text = "Tesouros: " .. pontos.Value
+end)
+
+🔹 PASSO 6 – Testar Multiplayer no Roblox Studio
+
+Clicar em Test
+
+Selecionar Start
+
+Escolher 2 Players
+
+Clicar em Start
+
+👥 Dois personagens aparecem!
+
+🔹 PASSO 7 – Verificar o Resultado
+
+Cada jogador pega um tesouro
+
+Cada tela mostra um número diferente
+
+🎉 Isso é MULTIPLAYER funcionando!
+
+🎮 Atividade Prática do Aluno
+
+✅ Fazer:
+
+Jogar com um colega
+
+Cada um pegar tesouros
+
+🏆 Desafio:
+
+Descobrir quem pega mais tesouros
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ Conceito de multiplayer
+✔️ Dados individuais
+✔️ Justiça no jogo
+✔️ Interação social
+✔️ Base para jogos online
