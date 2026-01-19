@@ -1,0 +1,217 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 4 – Criando Tesouros e Objetos Coletáveis
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar um tesouro visual
+
+Criar objetos importantes no mapa
+
+Posicionar objetos de forma estratégica
+
+Entender objetivo do jogo multiplayer
+
+🧠 Conceito-Chave
+
+“Todo jogo precisa de um objetivo.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto salvo da Aula 3
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar Caça ao Tesouro Multiplayer
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos criar o tesouro do jogo.”
+
+🟢 2️⃣ Conversa Inicial Rápida
+
+Pergunte:
+
+“O que é um tesouro?”
+
+“Onde ele fica escondido?”
+
+Explique:
+
+“Os jogadores precisam encontrar algo importante.”
+
+🟢 3️⃣ Criando o Tesouro Principal
+Passo a passo:
+
+Home → Part → Block
+
+Criar um bloco
+
+Usar Scale para deixar menor
+
+Usar Move para colocar em uma área distante
+
+Anchored → True
+
+Explique:
+
+“Esse é o tesouro.”
+
+🟢 4️⃣ Diferenciando o Tesouro (Cor e Forma)
+Passo a passo:
+
+Selecionar o tesouro
+
+Clicar em Color
+
+Escolher:
+
+Amarelo
+
+Dourado
+
+Opcional:
+
+Material → Neon
+
+Explique:
+
+“Tesouro precisa chamar atenção.”
+
+🟢 5️⃣ Escondendo o Tesouro
+Passo a passo:
+
+Colocar o tesouro:
+
+Atrás de uma porta
+
+No final de um caminho
+
+Em uma área isolada
+
+Explique:
+
+“Se estiver fácil, não é desafio.”
+
+🟢 6️⃣ Criando Objetos Falsos (Tesouros Falsos)
+Passo a passo:
+
+Criar 2 ou 3 blocos pequenos
+
+Mudar cores
+
+Espalhar pelo mapa
+
+Anchored → True
+
+Explique:
+
+“Nem tudo que brilha é o tesouro.”
+
+🟢 7️⃣ Criando um Espaço Especial do Tesouro
+Passo a passo:
+
+Criar uma plataforma grande
+
+Mudar cor
+
+Colocar o tesouro em cima
+
+Anchored → True
+
+Explique:
+
+“Esse lugar é especial.”
+
+🟢 8️⃣ Pensando no Multiplayer
+
+Explique:
+
+Tesouro é único
+
+Todos querem chegar
+
+Pode precisar de ajuda
+
+Pergunta:
+
+“É melhor ir sozinho ou com amigos?”
+
+🟢 9️⃣ Testando o Mapa
+Passo a passo:
+
+Play
+
+Ir do Spawn até o tesouro
+
+Ver se está fácil ou difícil
+
+Stop
+
+Pergunte:
+
+“Demorou muito?”
+
+“Ficou divertido?”
+
+🟢 🔟 Salvando o Projeto
+
+File → Save
+
+Explique:
+
+“Salvar protege nosso tesouro.”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Agora nosso jogo tem um objetivo.”
+
+Crie expectativa:
+
+“Na próxima aula vamos criar botões que precisam de ajuda.”
+
+✅ Resultado Esperado da Aula 4
+
+O aluno:
+
+Cria um objetivo visual
+
+Posiciona objetos com intenção
+
+Entende o conceito de missão
+
+Trabalha cooperação
+
+📌 Observação Pedagógica
+
+Essa aula desenvolve:
+
+Planejamento
+
+Tomada de decisão
+
+Pensamento estratégico
+
+Base para regras compartilhadas
