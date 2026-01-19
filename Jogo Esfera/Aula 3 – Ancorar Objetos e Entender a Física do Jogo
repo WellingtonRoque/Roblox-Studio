@@ -1,0 +1,198 @@
+📘 MÓDULO 1 – CONHECENDO O ROBLOX STUDIO
+📍 Aula 3 – Ancorar Objetos e Entender a Física do Jogo
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Entender por que os objetos caem
+
+Usar a opção Anchored (Ancorado)
+
+Criar uma rampa fixa
+
+Criar uma esfera que se movimenta
+
+🧰 Materiais
+
+Projeto da Aula 2 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto da Aula Anterior
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Vamos melhorar nosso jogo.”
+
+🟢 2️⃣ Teste Inicial – O Que Acontece Sozinho?
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+Rampas
+
+Blocos
+
+Clicar em Stop
+
+Pergunta para os alunos:
+
+“Por que algumas coisas caem?”
+
+Explique de forma simples:
+
+“É a gravidade do jogo.”
+
+🟢 3️⃣ Criando uma Esfera
+Passo a passo:
+
+Menu Home
+
+Clicar em Part
+
+Escolher Ball
+
+Explique:
+
+“Essa será a bola do nosso jogo.”
+
+🟢 4️⃣ Colocando a Bola na Rampa
+Passo a passo:
+
+Selecionar a bola
+
+Clicar em Move
+
+Posicionar a bola no topo da rampa
+
+🟢 5️⃣ Testando a Bola (Sem Ancorar)
+Passo a passo:
+
+Clicar em Play
+
+Observar a bola:
+
+Ela cai?
+
+Ela rola?
+
+Clicar em Stop
+
+Explique:
+
+“Objetos soltos caem e se mexem.”
+
+🟢 6️⃣ Ancorando a Rampa (Anchored)
+Passo a passo:
+
+Selecionar a rampa
+
+No painel da direita, abrir Properties
+
+Se não aparecer:
+
+Menu View
+
+Marcar Properties
+
+Procurar a opção Anchored
+
+Marcar como True
+
+Explique:
+
+“Agora a rampa fica parada.”
+
+🟢 7️⃣ Testando Novamente
+Passo a passo:
+
+Clicar em Play
+
+Observar:
+
+A rampa não cai
+
+A bola rola
+
+Clicar em Stop
+
+Pergunta:
+
+“O que mudou?”
+
+🟢 8️⃣ Criando um Mini Experimento
+Passo a passo:
+
+Criar outro bloco
+
+Não ancorar
+
+Criar outro bloco
+
+Ancorar
+
+Teste:
+
+Play
+
+Ver qual cai e qual não cai
+
+👉 Isso vira ciência + lógica.
+
+🟢 9️⃣ Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça uma rampa fixa e uma bola que role até o chão.”
+
+Regras:
+
+Rampa ancorada
+
+Bola solta
+
+Testar até funcionar
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje aprendemos a prender os objetos.”
+
+Antecipe:
+
+“Na próxima aula vamos fazer a bola pular!”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Entende gravidade no jogo
+
+Usa Anchored
+
+Cria rampas fixas
+
+Faz a bola rolar
