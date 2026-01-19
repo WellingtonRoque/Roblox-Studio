@@ -1,0 +1,216 @@
+📘 MÓDULO 3 – INTERAÇÃO SIMPLES
+📍 Aula 9 – Botão Mágico (Ação e Reação)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar um botão simples
+
+Fazer algo acontecer quando a bola encosta
+
+Entender a ideia de “regra do jogo”
+
+Trabalhar causa e efeito
+
+🧰 Materiais
+
+Projeto da Aula 8 salvo
+
+Roblox Studio
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO OPERACIONAL
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir o Roblox Studio
+
+Fazer login
+
+Clicar em My Games
+
+Selecionar o projeto
+
+Clicar em Edit
+
+Explique:
+
+“Hoje vamos criar um botão especial.”
+
+🟢 2️⃣ Revisão Rápida (5 minutos)
+
+Perguntas:
+
+“O que aconteceu quando a bola encostou no botão?”
+
+“O que a porta fez?”
+
+Explique:
+
+“Isso é uma regra do jogo.”
+
+🟢 3️⃣ Criando o Botão Mágico (Parte Visual)
+Passo a passo:
+
+Menu Home
+
+Part → Block
+
+Selecionar o bloco
+
+Scale
+
+Pequeno
+
+Baixo (como um botão)
+
+Move
+
+Colocar no chão
+
+Anchored → True
+
+Explique:
+
+“Esse bloco será o botão.”
+
+🟢 4️⃣ Diferenciando o Botão (Cor)
+Passo a passo:
+
+Selecionar o botão
+
+Clicar em Color
+
+Escolher uma cor chamativa (vermelho ou verde)
+
+Explique:
+
+“Botão precisa chamar atenção.”
+
+🟢 5️⃣ Criando a Porta (Objeto que Reage)
+Passo a passo:
+
+Home → Part → Block
+
+Scale
+
+Alto e largo
+
+Move
+
+Bloquear o caminho
+
+Anchored → True
+
+Explique:
+
+“Essa porta vai desaparecer.”
+
+🟢 6️⃣ Usando um Script Pronto (Totalmente Guiado)
+
+⚠️ Aqui o professor não explica código, apenas o efeito.
+
+Passo a passo:
+
+Clicar com botão direito no botão
+
+Clicar em Insert Object
+
+Clicar em Script
+
+Apagar tudo que estiver dentro
+
+Colar o script já pronto (fornecido pelo professor)
+
+Explique para o aluno:
+
+“Esse texto é a regra do botão.”
+
+(O aluno não precisa entender o código, apenas usar.)
+
+🟢 7️⃣ Testando o Botão Mágico
+Passo a passo:
+
+Clicar em Play
+
+Encostar a bola no botão
+
+Observar:
+
+A porta some
+
+Stop
+
+Pergunta:
+
+“O que aconteceu quando encostou?”
+
+🟢 8️⃣ Ajustando o Jogo
+
+Sugestões guiadas:
+
+Mudar posição do botão
+
+Colocar o botão antes de um desafio
+
+Criar dois botões
+
+Explique:
+
+“O criador decide quando o botão aparece.”
+
+🟢 9️⃣ Criando um Mini Desafio com Botão
+Passo a passo:
+
+Colocar o botão depois de um piso difícil
+
+Colocar a porta antes do final
+
+Testar o caminho inteiro
+
+Objetivo:
+
+O jogador precisa apertar o botão para ganhar.
+
+🟢 🔟 Desafio Final da Aula
+
+Desafio guiado:
+
+“Faça um botão que ajude a bola a chegar ao final.”
+
+Regras:
+
+Botão visível
+
+Porta bloqueando
+
+Botão libera o caminho
+
+🟢 🔚 Fechamento
+
+Explique:
+
+“Hoje você criou uma regra do jogo.”
+
+Antecipe:
+
+“Na próxima aula vamos planejar nosso próprio jogo.”
+
+✅ Resultado Esperado
+
+Ao final da aula, o aluno:
+
+Cria um botão funcional
+
+Entende ação → reação
+
+Usa script pronto sem medo
+
+Controla o fluxo do jogo
