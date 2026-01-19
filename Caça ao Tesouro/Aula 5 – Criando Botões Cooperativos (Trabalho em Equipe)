@@ -1,0 +1,227 @@
+📘 CURSO MULTIPLAYER ROBLOX
+📍 Aula 5 – Criando Botões Cooperativos (Trabalho em Equipe)
+⏱️ Duração
+
+1h a 1h30
+
+👧👦 Público-alvo
+
+Fundamental 1 – iniciantes
+
+🎯 Objetivo da Aula
+
+Ensinar o aluno a:
+
+Criar um botão interativo
+
+Entender ação → reação no multiplayer
+
+Trabalhar cooperação entre jogadores
+
+Criar uma regra que afeta todos
+
+🧠 Conceito-Chave
+
+“Algumas coisas só funcionam com ajuda.”
+
+🧰 Materiais
+
+Roblox Studio
+
+Projeto salvo da Aula 4
+
+🪜 ESTRUTURA DA AULA – PASSO A PASSO DETALHADO
+🟢 1️⃣ Abrindo o Projeto
+Passo a passo:
+
+Abrir Roblox Studio
+
+Login
+
+My Games
+
+Selecionar Caça ao Tesouro Multiplayer
+
+Edit
+
+Explique:
+
+“Hoje vamos criar algo que precisa de ajuda.”
+
+🟢 2️⃣ Relembrando a Porta
+
+Mostre:
+
+Porta criada na Aula 3
+
+Tesouro atrás dela
+
+Pergunta:
+
+“Como vamos abrir essa porta?”
+
+Explique:
+
+“Com um botão especial.”
+
+🟢 3️⃣ Criando o Botão Cooperativo (Visual)
+Passo a passo:
+
+Home → Part → Block
+
+Criar um bloco pequeno
+
+Scale
+
+Baixo
+
+Largo
+
+Move
+
+Colocar no chão
+
+Anchored → True
+
+Explique:
+
+“Esse é o botão.”
+
+🟢 4️⃣ Destacando o Botão
+Passo a passo:
+
+Selecionar o botão
+
+Color
+
+Vermelho ou verde
+
+Opcional:
+
+Material → Neon
+
+Explique:
+
+“Botão precisa chamar atenção.”
+
+🟢 5️⃣ Ligando o Botão à Porta (Script Pronto)
+
+⚠️ Aqui entra script pronto, SEM explicar código.
+
+Passo a passo:
+
+Clicar com botão direito no botão
+
+Insert Object
+
+Script
+
+Apagar tudo dentro
+
+Colar o script cooperativo padrão
+(fornecido pelo professor)
+
+Explique ao aluno:
+
+“Esse texto é a regra do botão.”
+
+🟢 6️⃣ O Que Esse Botão Faz?
+
+Explique sem código:
+
+Quando alguém pisa no botão
+
+A porta desaparece
+
+Todos podem passar
+
+Frase simples:
+
+“Um ajuda, todos ganham.”
+
+🟢 7️⃣ Testando o Botão
+Passo a passo:
+
+Play
+
+Encostar no botão
+
+Observar a porta sumir
+
+Stop
+
+Pergunta:
+
+“Funcionou?”
+
+“Deu para passar?”
+
+🟢 8️⃣ Pensando no Multiplayer
+
+Explique:
+
+Um jogador pisa
+
+Outro corre
+
+Porta aberta é para todos
+
+Pergunta:
+
+“É melhor jogar junto ou sozinho?”
+
+🟢 9️⃣ Ajustando o Desafio
+
+Sugestões:
+
+Colocar o botão longe da porta
+
+Criar um caminho até o botão
+
+Criar dois botões (opcional)
+
+Explique:
+
+“Criador escolhe a dificuldade.”
+
+🟢 🔟 Salvando o Projeto
+
+File → Save
+
+Explique:
+
+“Salvar é proteger o jogo.”
+
+🟢 🔚 Fechamento da Aula
+
+Mensagem final:
+
+“Hoje aprendemos a ajudar.”
+
+Crie expectativa:
+
+“Na próxima aula vamos jogar com várias pessoas de verdade.”
+
+✅ Resultado Esperado da Aula 5
+
+O aluno:
+
+Cria interação multiplayer real
+
+Entende cooperação
+
+Usa regras compartilhadas
+
+Vê efeito global no jogo
+
+📌 Observação Pedagógica
+
+Essa aula desenvolve:
+
+Trabalho em equipe
+
+Comunicação
+
+Pensamento lógico
+
+Base para estados globais do jogo
