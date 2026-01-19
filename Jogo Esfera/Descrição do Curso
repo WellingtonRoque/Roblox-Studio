@@ -1,0 +1,231 @@
+📘 1️⃣ EMENTA DO CURSO
+Curso: Criação de Jogos no Roblox Studio – Fundamental 1
+
+Ementa:
+Introdução ao desenvolvimento de jogos digitais por meio do Roblox Studio, com foco em atividades visuais e práticas. O curso aborda a criação de ambientes 3D, manipulação de objetos, noções básicas de física, lógica e interação em jogos, utilizando ferramentas visuais do Roblox Studio. Por meio de pequenos projetos progressivos, os alunos desenvolvem criatividade, raciocínio lógico, pensamento computacional e autonomia, culminando na criação de um jogo simples autoral.
+
+🎯 2️⃣ OBJETIVOS E METODOLOGIA
+🎯 Objetivo Geral
+
+Introduzir os alunos do Fundamental 1 ao pensamento computacional e à criação de jogos digitais, utilizando o Roblox Studio de forma visual, lúdica e progressiva.
+
+🎯 Objetivos Específicos
+
+Conhecer o ambiente do Roblox Studio
+
+Manipular objetos em um ambiente 3D
+
+Compreender noções básicas de espaço, forma e física
+
+Desenvolver lógica por meio de desafios visuais
+
+Estimular criatividade e autonomia
+
+Criar um mini jogo funcional ao final do curso
+
+🧠 Metodologia
+
+Aprendizagem Baseada em Projetos (ABP)
+
+Atividades práticas e visuais
+
+Desafios curtos e guiados
+
+Exploração e experimentação
+
+Linguagem acessível e lúdica
+
+Resultados visíveis em todas as aulas
+
+⚠️ Programação em Lua não é foco inicial, sendo introduzida apenas de forma opcional e altamente guiada.
+
+🗂️ 3️⃣ PLANO DE AULA – CURSO INTEIRO
+
+👉 Carga horária sugerida: 12 aulas
+👉 Duração média: 1h a 1h30 por aula
+
+🟢 MÓDULO 1 – Conhecendo o Roblox Studio
+📍 Aula 1 – Explorando o Roblox Studio
+
+Objetivo: Conhecer o ambiente e as ferramentas básicas
+
+Conteúdos:
+
+O que é Roblox Studio
+
+Área de trabalho
+
+Play / Stop
+
+Inserção de partes
+
+Atividade prática:
+Criar um mundo simples com:
+
+Um chão
+
+Um bloco grande
+
+Um personagem andando no mapa
+
+🟢 MÓDULO 2 – Construção e Movimento
+📍 Aula 2 – Formas e Tamanhos
+
+Objetivo: Trabalhar dimensão e escala
+
+Ferramentas:
+
+Mover
+
+Dimensionar
+
+Atividade prática:
+Criar:
+
+Blocos grandes
+
+Blocos pequenos
+
+Caminho simples
+
+📍 Aula 3 – Girar e Posicionar
+
+Objetivo: Trabalhar rotação e inclinação
+
+Ferramentas:
+
+Girar
+
+Atividade prática:
+Criar:
+
+Rampas
+
+Escadas
+
+Caminhos inclinados
+
+🟡 MÓDULO 3 – Física no Jogo
+📍 Aula 4 – A Bola Saltadora (seu tutorial)
+
+Objetivo: Introduzir física e gravidade
+
+Ferramentas:
+
+Ancorar / Desancorar
+
+Propriedades básicas
+
+Atividade prática:
+Criar:
+
+Uma esfera
+
+Uma rampa
+
+Testar o salto
+
+📍 Aula 5 – Caminho da Bola
+
+Objetivo: Planejar trajetos
+
+Atividade prática:
+Criar:
+
+Um percurso completo para a bola
+
+Rampas e plataformas
+
+🟠 MÓDULO 4 – Desafios e Obstáculos
+📍 Aula 6 – Quedas e Alturas
+
+Objetivo: Trabalhar noção de desafio
+
+Atividade prática:
+Criar:
+
+Plataformas suspensas
+
+Quedas controladas
+
+📍 Aula 7 – Piso Difícil
+
+Objetivo: Criar dificuldade no jogo
+
+Atividade prática:
+Criar:
+
+Blocos finos
+
+Obstáculos móveis (manual)
+
+🔵 MÓDULO 5 – Interação Simples
+📍 Aula 8 – Objetos que Reagem
+
+Objetivo: Introduzir interação
+
+Atividade prática:
+Criar:
+
+Peça que cai
+
+Porta simples
+
+(Pode usar modelos prontos ou scripts já preparados)
+
+📍 Aula 9 – Botão Mágico
+
+Objetivo: Entender ação e reação
+
+Atividade prática:
+Criar:
+
+Botão que abre caminho
+
+Ponte que aparece
+
+🟣 MÓDULO 6 – Meu Primeiro Jogo
+📍 Aula 10 – Planejando Meu Jogo
+
+Objetivo: Organização e criatividade
+
+Atividade prática:
+Desenhar o jogo:
+
+Início
+
+Caminho
+
+Desafio
+
+Final
+
+📍 Aula 11 – Construção do Jogo
+
+Objetivo: Desenvolver o projeto final
+
+Atividade prática:
+Construção livre com acompanhamento do professor
+
+📍 Aula 12 – Apresentação e Testes
+
+Objetivo: Socialização e avaliação
+
+Atividade prática:
+
+Jogar o jogo dos colegas
+
+Apresentar o próprio projeto
+
+🏁 Avaliação (lúdica)
+
+Participação
+
+Criatividade
+
+Funcionamento do projeto
+
+Capacidade de explicar o que fez
+
+❌ Sem prova escrita
+✅ Avaliação prática e observacional
