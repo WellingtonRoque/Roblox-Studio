@@ -1,0 +1,165 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 11 – Mostrar Pontos na Tela (Interface do Jogador – HUD)
+🎯 Tema da Aula
+
+Criando a tela do jogador para mostrar quantos tesouros foram coletados
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Entender o que é interface do jogo
+
+Criar texto na tela
+
+Ligar o contador de pontos à interface
+
+Ver o progresso em tempo real
+
+🧠 Conceitos Trabalhados
+
+Interface (HUD)
+
+Informação visual
+
+Atualização em tempo real
+
+Relação jogo ↔ jogador
+
+Experiência do usuário
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🖥️ Placar de Tesouros na Tela
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Abrir o Projeto Atual
+
+Abrir o Roblox Studio
+
+Clicar em My Games
+
+Selecionar o jogo
+
+Clicar em Edit
+
+💬 Explique:
+
+“Agora o jogo vai conversar com o jogador pela tela!”
+
+🔹 PASSO 2 – Criar a Interface do Jogador
+Criar a tela (GUI):
+
+No Explorer
+
+Clicar em StarterGui
+
+Botão direito → Insert Object
+
+Selecionar ScreenGui
+
+Renomear para:
+🖥️ Placar
+
+🔹 PASSO 3 – Criar o Texto do Placar
+
+Clicar com botão direito em Placar
+
+Insert Object
+
+Selecionar TextLabel
+
+Renomear para:
+🏷️ TextoPlacar
+
+🔹 PASSO 4 – Ajustar Aparência do Texto
+
+Com TextoPlacar selecionado, em Properties:
+
+Text → Tesouros: 0
+
+TextSize → 36
+
+TextColor → Branco
+
+BackgroundColor → Preto
+
+BackgroundTransparency → 0.3
+
+Size → UDim2 (aumentar até ficar visível)
+
+Position → Canto superior esquerdo
+
+📌 Faça visualmente, arrastando na tela.
+
+🔹 PASSO 5 – Criar Script da Interface
+
+Agora vamos fazer o texto acompanhar o contador.
+
+Selecionar TextoPlacar
+
+Botão direito → Insert Object
+
+Selecionar LocalScript
+
+📌 Explique:
+
+“Esse script só funciona para o jogador que está jogando”
+
+🔹 PASSO 6 – Código do Placar (Copiar e Colar)
+
+Dentro do LocalScript, apagar tudo e colar:
+
+local jogador = game.Players.LocalPlayer
+local contador = game.Workspace.Sistema.TesourosColetados
+local texto = script.Parent
+
+contador:GetPropertyChangedSignal("Value"):Connect(function()
+    texto.Text = "Tesouros: " .. contador.Value
+end)
+
+
+💬 Explique de forma simples:
+
+“Quando o número muda, o texto muda também”
+
+🔹 PASSO 7 – Testar o Placar
+
+Clicar em Play
+
+Encostar nos tesouros
+
+Observar o texto mudando
+
+✅ Resultado esperado:
+
+Texto começa em 0
+
+Aumenta a cada tesouro
+
+🎉 Reação garantida da turma!
+
+🎮 Atividade Prática do Aluno
+
+✅ Fazer:
+
+Coletar tesouros
+
+Observar o placar
+
+🏆 Desafio:
+
+Mudar o texto para:
+Pontos: 0 ou Tesouros Pegos: 0
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ Interface de jogo
+✔️ Comunicação visual
+✔️ Atualização automática
+✔️ Relação lógica entre sistemas
+✔️ Experiência do jogador
