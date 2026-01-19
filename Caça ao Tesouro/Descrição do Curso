@@ -1,1 +1,203 @@
+📘 CURSO MULTIPLAYER – 15 AULAS
+Criando um Jogo Multiplayer no Roblox
+📌 EMENTA DO CURSO
 
+Desenvolvimento completo de um jogo multiplayer no Roblox, partindo da construção do mundo até a publicação e introdução à monetização. O curso aborda criação de ambientes multiplayer, interação entre jogadores, objetos cooperativos, sistemas de pontuação individual, regras compartilhadas, condições de vitória, interface do jogador (HUD) e publicação do jogo na plataforma Roblox.
+O foco está na lógica do jogo, interação entre usuários e experiência multiplayer, utilizando scripts prontos e adaptações guiadas, priorizando o entendimento do funcionamento do sistema e do efeito visual no jogo.
+
+🎯 OBJETIVO GERAL
+
+Capacitar os alunos a criar, estruturar, testar e publicar um jogo multiplayer funcional no Roblox, compreendendo como jogadores interagem no mesmo ambiente, como regras e pontuações são compartilhadas e como um jogo pode ser finalizado, publicado e monetizado.
+
+🎯 OBJETIVOS ESPECÍFICOS
+
+Ao final do curso, o aluno será capaz de:
+
+Criar mundos multiplayer funcionais no Roblox
+
+Desenvolver ambientes interativos com portas, áreas e caminhos
+
+Implementar objetos coletáveis e interativos
+
+Criar mecânicas cooperativas entre jogadores
+
+Trabalhar com regras globais e individuais no multiplayer
+
+Implementar sistemas de pontuação e HUD
+
+Definir condições de vitória e reinício do jogo
+
+Publicar um jogo multiplayer no Roblox
+
+Compreender conceitos iniciais de monetização
+
+🧠 METODOLOGIA (IGUAL AO CURSO ANTERIOR)
+
+✔ Aprendizado visual e prático
+✔ Passo a passo guiado
+✔ Uso de scripts prontos e adaptados
+✔ Foco no resultado e funcionamento, não na complexidade do código
+✔ Aprendizagem baseada em projeto (ABP)
+✔ Trabalho colaborativo e testes multiplayer em grupo
+
+🗂️ DIVISÃO DO CURSO EM MÓDULOS (15 AULAS)
+🔹 MÓDULO 1 – FUNDAMENTOS DO JOGO MULTIPLAYER
+Aula 1 – O Que é um Jogo Multiplayer?
+
+Revisão de conceitos (singleplayer x multiplayer)
+
+Exemplos de jogos multiplayer no Roblox
+
+Estrutura geral do projeto do curso
+
+Apresentação do jogo que será desenvolvido
+
+Aula 2 – Criando o Mundo Multiplayer (Base do Jogo)
+
+Criação do mapa principal
+
+Organização do Workspace
+
+Conceito de mundo compartilhado
+
+Preparação do ambiente para múltiplos jogadores
+
+Aula 3 – Criando Caminhos, Áreas e Portas Multiplayer
+
+Criação de áreas acessíveis por todos
+
+Portas e passagens
+
+Controle de acesso entre ambientes
+
+Organização lógica do mapa
+
+🔹 MÓDULO 2 – OBJETOS E INTERAÇÃO ENTRE JOGADORES
+Aula 4 – Criando Tesouros e Objetos Coletáveis
+
+Conceito de item coletável
+
+Inserção de tesouros no mapa
+
+Organização dos objetos no mundo
+
+Preparação para interação
+
+Aula 5 – Criando Botões Cooperativos (Trabalho em Equipe)
+
+Botões que exigem cooperação
+
+Ações ativadas por mais de um jogador
+
+Conceito de colaboração no multiplayer
+
+Testes em grupo
+
+Aula 6 – Jogadores no Mesmo Mundo (Spawn e Multiplayer Real)
+
+Sistema de spawn
+
+Entrada de múltiplos jogadores
+
+Testes reais de multiplayer
+
+Ajustes no ambiente para vários usuários
+
+Aula 7 – Regras Compartilhadas do Jogo (Para Todos)
+
+Regras globais do jogo
+
+O que afeta todos os jogadores
+
+Eventos compartilhados
+
+Lógica de funcionamento coletivo
+
+🔹 MÓDULO 3 – LÓGICA DO JOGO E SISTEMA DE PONTUAÇÃO
+Aula 8 – Objetos Interativos e Coleta de Itens
+
+Interação jogador–objeto
+
+Itens ativáveis
+
+Lógica de coleta
+
+Feedback visual ao jogador
+
+Aula 9 – Tesouros que Desaparecem ao Tocar
+
+Eventos ao encostar em objetos
+
+Remoção de itens do mapa
+
+Primeira lógica de jogo
+
+Testes e ajustes
+
+Aula 10 – Contador de Tesouros (Sistema de Pontos Simples)
+
+Criação de sistema de pontuação
+
+Contagem de itens coletados
+
+Atualização de valores
+
+Testes de funcionamento
+
+Aula 11 – Mostrar Pontos na Tela (HUD do Jogador)
+
+Introdução ao HUD
+
+Exibição de informações na tela
+
+Pontuação individual
+
+Interface simples para o jogador
+
+Aula 12 – Multiplayer: Cada Jogador com Seu Próprio Placar
+
+Pontuação individual no multiplayer
+
+Separação de dados por jogador
+
+Comparação entre jogadores
+
+Testes simultâneos
+
+🔹 MÓDULO 4 – FINALIZAÇÃO, PUBLICAÇÃO E MERCADO
+Aula 13 – Condição de Vitória (Quem Ganha o Jogo)
+
+Definição de objetivos
+
+Regras de vitória
+
+Identificação do vencedor
+
+Encerramento da partida
+
+Aula 14 – Tela de Vitória e Reinício do Jogo
+
+Tela final do jogo
+
+Mensagem de vitória
+
+Reinício da partida
+
+Experiência do usuário
+
+Aula 15 – Publicar o Jogo e Introdução à Monetização
+
+Publicação no Roblox
+
+Configurações básicas
+
+Conceitos iniciais de monetização
+
+Próximos passos para evolução do jogo
+
+✅ RESULTADO FINAL DO CURSO
+
+🎮 Um jogo multiplayer completo, funcional e publicado, criado pelos alunos
+👥 Interação real entre jogadores
+🧠 Desenvolvimento de raciocínio lógico e pensamento sistêmico
+🚀 Introdução ao mercado de games e monetização
