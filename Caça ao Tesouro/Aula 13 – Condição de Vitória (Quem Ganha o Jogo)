@@ -1,0 +1,138 @@
+🎮 CURSO 2 – ROBLOX STUDIO MULTIPLAYER
+🔹 Aula 13 – Condição de Vitória (Quem Ganha o Jogo)
+🎯 Tema da Aula
+
+Criando uma regra para vencer o jogo
+
+🎯 Objetivo da Aula
+
+Ao final da aula, o aluno será capaz de:
+
+Entender que jogos têm regras
+
+Criar uma condição de vitória
+
+Ver uma mensagem quando alguém ganha
+
+Transformar o jogo em competição saudável
+
+🧠 Conceitos Trabalhados
+
+Objetivo
+
+Regra
+
+Comparação de números
+
+Final de jogo
+
+Competição saudável
+
+⏱️ Duração
+
+⏰ 50 a 60 minutos
+
+🧩 Projeto da Aula
+
+🏆 Ganha quem coletar X tesouros primeiro
+
+🪜 PASSO A PASSO DA AULA
+🔹 PASSO 1 – Definir a Regra do Jogo
+
+💬 Explique para os alunos:
+
+“Quem pegar 5 tesouros primeiro, ganha!”
+
+📌 O número pode ser:
+
+3 (mais fácil)
+
+5 (ideal)
+
+10 (desafio)
+
+👉 Usaremos 5 tesouros.
+
+🔹 PASSO 2 – Criar um Script de Vitória
+
+No Explorer
+
+Abrir ServerScriptService
+
+Botão direito → Insert Object
+
+Selecionar Script
+
+Renomear para:
+🏆 SistemaVitoria
+
+🔹 PASSO 3 – Código da Regra de Vitória
+
+Apagar tudo e colar:
+
+local LIMITE = 5
+
+game.Players.PlayerAdded:Connect(function(player)
+    local pontos = player:WaitForChild("Tesouros")
+
+    pontos:GetPropertyChangedSignal("Value"):Connect(function()
+        if pontos.Value >= LIMITE then
+            for _, p in pairs(game.Players:GetPlayers()) do
+                p:Kick(player.Name .. " ganhou o jogo!")
+            end
+        end
+    end)
+end)
+
+
+💬 Explique de forma simples:
+
+“Quando alguém chega no número certo, o jogo acaba”
+
+🔹 PASSO 4 – Testar com Dois Jogadores
+
+Clicar em Test
+
+Selecionar 2 Players
+
+Iniciar o jogo
+
+Um jogador pega os tesouros
+
+✅ Resultado esperado:
+
+Quando chega em 5 → aparece mensagem de vitória
+
+📌 Observação:
+
+O Kick é temporário, só para mostrar vitória
+
+Na próxima aula vamos melhorar isso
+
+🔹 PASSO 5 – Ajustar o Texto da Regra
+
+Atividade guiada:
+
+Mudar o número de vitória
+
+Testar novamente
+
+🎮 Atividade Prática do Aluno
+
+✅ Fazer:
+
+Jogar com colega
+
+Tentar ganhar
+
+🏆 Desafio:
+
+Decidir um novo número para vencer
+
+🧠 O que o aluno aprende nessa aula
+
+✔️ Jogos têm regras
+✔️ Objetivo claro
+✔️ Comparação de valores
+✔️ Noção de vitória
+✔️ Competição saudável
