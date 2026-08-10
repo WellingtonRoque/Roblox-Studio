@@ -1,0 +1,29 @@
+PORTAL
+
+local modelo = script.Parent
+local chave = true
+
+local function aoTocar(outroObjeto)
+	-- Evita que o modelo toque nele mesmo
+	if outroObjeto:IsDescendantOf(modelo) then return end
+	
+	-- Verifica se foi um jogador que encostou
+	if outroObjeto.Parent:FindFirstChild("Humanoid") then
+		local mensagem = Instance.new("Hint")
+		if chave then
+			mensagem.Text = "🚪 Portal Liberado"
+		else
+			mensagem.Text = "🔒 Portal Bloqueado"
+		end
+		mensagem.Parent = game.Workspace
+		task.wait(3)
+		mensagem:Destroy()
+	end
+end
+
+-- Varre todas as peças de dentro do modelo e aplica o Touched
+for _, filho in ipairs(modelo:GetDescendants()) do
+	if filho:IsA("BasePart") then
+		filho.Touched:Connect(aoTocar)
+	end
+end
